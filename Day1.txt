@@ -1,0 +1,32 @@
+Package(software):
+ Set up repository
+ use yum or rpm or zip or tar command to install
+
+
+Networking Commands:
+
+
+netstat # to pull the ports information
+ping      # To check if ipaddr is up and running
+telnet    # to check if port is on on the destination server
+traceroute  # to check route of the destination server
+nslookup   #ipaddr => domain name, if domain name is give = ipaddr
+ipaddr # fidning out the gateway, ip addr information
+
+
+static ip  # constant ip
+Dynamic ip # changing ip
+
+subnet   127.0.0.1/27
+gateway
+
+port:
+
+ssh 22
+ftp 21
+smtp 25
+dns 53
+http 80
+https 443
+tomcat 8080
+-------------------------
