@@ -1,0 +1,54 @@
+what is version control ?
+its the software which keeps the revesion/history of all the work performed.
+
+git vs svn
+svn is the centralized version control where as git is the decentralized
+version control software
+
+pro and cons
+git works offline where svn needs internet to push
+
+git vs Github/Bitbucket
+
+github/Bitbucket is the version control softwre/Fancy website to stores the files and directories.
+
+git is the backend tool to interact with github/bitbucket
+
+
+
+svn command
+svn checkout url
+svn update
+svn add
+svn commit -m " msg goes here"
+svn export svnurl
+svn merge urlbranch urlbranch2
+svn log
+svn status
+
+
+
+git command
+git clone
+git pull
+git fetch
+git push
+git add 
+git commit -m " "
+git log
+git status
+
+
+Rollback commands
+git checkout
+git revert
+git reset
+
+Branch Creation
+git branch -d #delete branch
+git branch -b # Create Branch
+
+Merge
+git merge 
+
+
